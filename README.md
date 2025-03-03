@@ -23,7 +23,7 @@ Web App: Built with Streamlit for easy interaction.
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/text-summarizer.git
+git clone https://github.com/yourusername/text-summariser.git
 cd text-summarizer
 
 2. Install Dependencies
